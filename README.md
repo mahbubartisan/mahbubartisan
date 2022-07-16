@@ -1,11 +1,11 @@
 ![I am GitHub Readme Generator's creator](https://ventasoftware.com/wp-content/uploads/2020/02/syntax-highlight.png)
 # Hi 👋, I am Al Mahbub
 
-✔ Able to slove different type of problems.
+#### ✔ Able to slove different type of problems.
 
-✔ Ready to accept new technologies.
+#### ✔ Ready to accept new technologies.
 
-✔ Always write readable, scalable and maintainable code.
+#### ✔ Write readable, scalable and maintainable code.
 
 I am a self-motivated web developer. I’m extremely passionate about web development and design in all it’s forms and helping small businesses and artisans build and improve their online presence. 
 
