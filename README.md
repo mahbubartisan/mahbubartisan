@@ -8,6 +8,8 @@
 #### ✔ Write readable, scalable and maintainable code.
 
 
+
+
 I am a self-motivated web developer. I’m extremely passionate about web development and design in all it’s forms and helping small businesses and artisans build and improve their online presence. 
 
 
