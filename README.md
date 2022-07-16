@@ -5,7 +5,8 @@
 
 I am a self-motivated web developer. I care deeply about creating world-class, useful, and beautiful products that help people and make a difference. I can be as involved in your project as you need me to be.
 
-SKILLS
+## SKILLS:
+
 ✔ Languages: PHP, SQL
 ✔ Frontend Development: HTML 5, CSS 3, JQuery, Ajax
 ✔ FrameWork/Libraries: LARAVEL, BOOTSTRAP  
