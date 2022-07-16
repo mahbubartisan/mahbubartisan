@@ -8,8 +8,11 @@ I am a self-motivated web developer. I care deeply about creating world-class, u
 ## SKILLS:
 
 ✔ Languages: PHP, SQL
+
 ✔ Frontend Development: HTML 5, CSS 3, JQuery, Ajax
+
 ✔ FrameWork/Libraries: LARAVEL, BOOTSTRAP  
+
 ✔ Technical: DBMS
 
 - 🔭 I’m currently working on a modern ecommerce site 
