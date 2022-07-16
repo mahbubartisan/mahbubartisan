@@ -5,7 +5,11 @@
 
 I am a self-motivated web developer. I care deeply about creating world-class, useful, and beautiful products that help people and make a difference. I can be as involved in your project as you need me to be.
 
-Skills: LARAVEL/ JS / HTML / CSS/JQUERY/AJAX
+SKILLS
+✔ Languages: PHP, SQL
+✔ Frontend Development: HTML 5, CSS 3, JQuery, Ajax
+✔ FrameWork/Libraries: LARAVEL, BOOTSTRAP  
+✔ Technical: DBMS
 
 - 🔭 I’m currently working on a modern ecommerce site 
 - 🌱 I’m currently learning REACT 
