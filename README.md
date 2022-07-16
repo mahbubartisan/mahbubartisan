@@ -3,7 +3,7 @@
 
 
 
-I am a self-motivated web developer. I care deeply about creating world-class, useful, and beautiful products that help people and make a difference. I can be as involved in your project as you need me to be.
+I am a self-motivated web developer. I’m extremely passionate about web development and design in all it’s forms and helping small businesses and artisans build and improve their online presence. 
 
 ## SKILLS:
 
