@@ -1,5 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://ventasoftware.com/wp-content/uploads/2020/02/syntax-highlight.png)
-# Hi there 👋, My name is Al Mahbub
+# Hi 👋, I am Al Mahbub
 
 
 
