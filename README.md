@@ -7,17 +7,19 @@
 
 #### ✔ Write readable, scalable and maintainable code.
 
+
 I am a self-motivated web developer. I’m extremely passionate about web development and design in all it’s forms and helping small businesses and artisans build and improve their online presence. 
+
 
 ## SKILLS:
 
-✔ Languages: PHP, SQL
+#### ✔ Languages: PHP, SQL
 
-✔ Frontend Development: HTML 5, CSS 3, JQuery, Ajax
+#### ✔ Frontend Development: HTML 5, CSS 3, JQuery, Ajax
 
-✔ Framework/Libraries: LARAVEL, BOOTSTRAP  
+#### ✔ Framework/Libraries: LARAVEL, BOOTSTRAP  
 
-✔ Technical: DBMS
+#### ✔ Technical: DBMS
 
 - 🔭 I’m currently working on a modern ecommerce site 
 - 🌱 I’m currently learning REACT 
