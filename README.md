@@ -23,6 +23,7 @@ I am a self-motivated web developer. I’m extremely passionate about web develo
 
 #### ✔ Technical: DBMS
 
+
 - 🔭 I’m currently working on a modern ecommerce site 
 - 🌱 I’m currently learning REACT 
 - 👯 I’m looking to collaborate on your project 
