@@ -8,7 +8,7 @@
 #### ✔ Write readable, scalable and maintainable code.
 
 
-
+![Profile views](https://gpvc.arturio.dev/mahbubartisan) 
 
 I am a self-motivated web developer. I’m extremely passionate about web development and design in all it’s forms and helping small businesses and artisans build and improve their online presence. 
 
@@ -35,4 +35,4 @@ I am a self-motivated web developer. I’m extremely passionate about web develo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubartisan&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/mahbubartisan)  
+ 
