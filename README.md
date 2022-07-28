@@ -19,7 +19,7 @@ I am a self-motivated web developer. I’m extremely passionate about web develo
 
 #### ✔ Frontend Development: HTML 5, CSS 3, JQuery, Ajax
 
-#### ✔ Framework/Libraries: LARAVEL, BOOTSTRAP  
+#### ✔ Framework/Libraries: LARAVEL, REACT, BOOTSTRAP  
 
 #### ✔ Technical: DBMS
 
