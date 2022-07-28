@@ -25,7 +25,7 @@ I am a self-motivated web developer. I’m extremely passionate about web develo
 
 
 - 🔭 I’m currently working on a modern ecommerce site 
-- 🌱 I’m currently learning REACT 
+- 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate on your project 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: almahbub25@gmail.com 
