@@ -17,7 +17,7 @@ I am a self-motivated web developer. I’m extremely passionate about web develo
 
 #### ✔ Languages: PHP, SQL
 
-#### ✔ Frontend Development: HTML 5, CSS 3, Ajax
+#### ✔ Frontend Development: HTML 5, CSS 3
 
 #### ✔ Framework/Libraries: LARAVEL, REACT, JQuery, BOOTSTRAP  
 
