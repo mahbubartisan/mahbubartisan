@@ -25,7 +25,7 @@ I am a self-motivated web developer. I’m extremely passionate about web develo
 
 
 - 🔭 I’m currently working on the ultimate solution for the doctor appointment system using VueJs & Laravel.
-- 🌱 Also working on an Agricultural Research Project With AI.
+- 🌱 Also working on an Agricultural Research Project using AI.
 - 👯 I’m looking to collaborate on your project. 
 - 💬 Always open to talk regarding anything about Web development.
 - 📫 How to reach me: almahbub25@gmail.com 
